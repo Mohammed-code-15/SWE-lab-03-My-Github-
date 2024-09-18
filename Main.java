@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static void display(String mas) {
-        System.out.println(mas);
+        System.out.println("message " + mas);
     }
 
     public static void readList(ArrayList<String> list) {
